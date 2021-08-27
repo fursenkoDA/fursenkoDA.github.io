@@ -46,7 +46,8 @@
   margin-bottom: 8px;
 }
 .blog-preview a {
-  text-decoration: none;
+  padding-bottom: 8px;
+  color: #4d0319;
 }
 
 /* blog details page */

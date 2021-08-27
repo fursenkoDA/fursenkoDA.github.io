@@ -25,6 +25,7 @@ function App() {
           </article>
           <article>
             <h2>Основыне данные</h2>
+            <p>Менеджер Блогеров</p>
             <p>Город проживания:</p>
             <p>Владивосток (UTC +10)</p>
             <p>Телефон:</p>
@@ -40,6 +41,35 @@ function App() {
             <p>Продажа рекламы</p>
             <p>Разбор директа</p>
             <p>Создание и ведение PR-аккаунта</p>
+          </article>
+        </div>
+        <div className="blog-preview">
+          <article>
+            <h2>С кем сотрудничаю на данный момент:</h2>
+            <p>Instagramm:</p>
+            <a href="https://www.instagram.com/dikiy_vadik/">
+              <p>@dikiy_vadik</p>
+            </a>
+            <a href="https://www.instagram.com/veydi_rush/">
+              <p>@veydi_rush</p>
+            </a>
+            <a href="https://instagram.com/yuliavi_">
+              <p>@yuliavi_</p>
+            </a>
+            <br />
+            <p>TikTok</p>
+            <a href="https://vm.tiktok.com/ZSJcYn4xW/">
+              <p>@veydi_rush</p>
+            </a>
+            <a href="https://vm.tiktok.com/ZSJcYvgwp/">
+              <p>@vadim_rush</p>
+            </a>
+            <a href="https://vm.tiktok.com/ZSJcYtKfj/">
+              <p>@vadik_20cm</p>
+            </a>
+            <a href="https://vm.tiktok.com/ZSJcYg6PF/">
+              <p>@liavi_</p>
+            </a>
           </article>
         </div>
         <div className="blog-preview">
