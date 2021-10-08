@@ -56,6 +56,9 @@ function App() {
             <a href="https://instagram.com/yuliavi_">
               <p>@yuliavi_</p>
             </a>
+            <a href="https://www.instagram.com/romina_daily/">
+              <p>@romina_daily</p>
+            </a>
             <br />
             <p>TikTok</p>
             <a href="https://vm.tiktok.com/ZSJcYn4xW/">
